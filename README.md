@@ -15,4 +15,6 @@ I'm a Software Engineer and Med student. I have a keen interest in the applicati
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaulBoye-py&show_icons=true&include_all_commits=true&hide_border=true" alt="Paul's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulBoye-py&langs_count=8&layout=compact&hide_border=true" alt="Paul's GitHub stats" /> |
+
+Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulBoye-py&show_icons=true)
 | ------------- | ------------- |
