@@ -7,7 +7,7 @@ I'm a Software Engineer and Med student. I have a keen interest in the applicati
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python and Cloud Engineering.
+- 🌱 I’m currently learning JavaScript, Reactjs, Python(Django) and Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/10bKvZdrJf4axUKTFVROKwFLlIUjk4O6Y/view?usp=sharing) and contact me by emailing paul.adeboye@yahoo.com.
