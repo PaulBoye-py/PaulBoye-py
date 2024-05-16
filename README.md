@@ -6,10 +6,11 @@ I'm a Software Engineer and Med student. I have a keen interest in the applicati
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, Python(Django) and Cloud Engineering.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer (Intern or Junior level).
+- 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022, Zuri, and ALX.
+- AWS Certified Solutions Architect Associate.
+- 🌱 I work with technologies such as JavaScript, Reactjs, Nextjs, Node JS, Python(Django), Terraform, and AWS.
+- 😊 I’m looking for help with open-source projects, hackathons, internships, and junior-level opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer, Full Stack Engineer (Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/10bKvZdrJf4axUKTFVROKwFLlIUjk4O6Y/view?usp=sharing) and contact me by emailing paul.adeboye@yahoo.com.
 
 ---
